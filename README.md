@@ -1,0 +1,1 @@
+- https://github.com/piotrwitek/react-redux-typescript-realworld-app/blob/81a6b29e8506054eec978839f79e2ad561f7f8bf/src/layouts/Main.tsx
